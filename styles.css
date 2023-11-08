@@ -1,0 +1,34 @@
+body {
+    
+    background-image:    url(moon-in-sky-xwyx79lr6g9h4n2l.webp);
+    background-position:  center center; 
+    
+}
+h1{
+    width: 400px;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 200px;
+    left: 420px;
+}
+.play {
+    background-color: #9eac9f; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 250px;
+    left: 580px;
+}
+h1:hover{
+    border-top: 5px solid white;
+}
+.play:hover{
+    border-radius: 0px 10px 0px 10px;
+}
